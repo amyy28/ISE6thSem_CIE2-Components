@@ -17,6 +17,8 @@
 | Date   |      Subject      |  Portions |
 |----------|:-------------:|------:|
 | 5th June |  ML Assignment Submission Deadline | kNN / kMeans |
+| 7th June |  Java Lab Test | Program 1 to 6 for lab test 1, Program 7 to 12 for lab test 2 |
+| 10th June |  Deadline for Java Lab Record Submission | - |
 | 12th June |  OOADP Lab Test | First 5 programs from Part B |
 | 14th June, 12 noon |    Deadline for SS lab record submission   | - |
 | 15th June | 10 marks MCQ test SS | 5th Unit(lex and Yacc) |
