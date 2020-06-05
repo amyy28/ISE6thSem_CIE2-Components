@@ -1,6 +1,6 @@
 ## Contains information and data regarding the CIE - 2 assessments
 
-## Note that, except the CIE dates, all the other components are ISE 6C specific 
+### Note that, except the CIE dates, all the other components dates are ISE 6C specific 
 
 ### Schedule CIE - 2 
 
