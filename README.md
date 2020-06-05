@@ -9,7 +9,19 @@
 | 8th June |  System Software | From program blocks to remaining second unit, 3rd unit full. |
 | 9th June |    OOADP   | - |
 | 10th June | Java & J2EE | - |
-| 11th June | Machine Learning | - |
+| 11th June | Machine Learning | Unit 3 
+Logistic Regression
+LDA 
+
+Unit 4
+Expectation-Maximisation 
+Dimensionality reduction - PCA
+
+
+Unit 5
+Vector Quantisation 
+SOM 
+Hierarchical Clustering - AGNES, DIANA |
 
 ### ISE 6C specific deadlines and assessments
 
