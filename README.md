@@ -25,4 +25,6 @@
 #### Guidelines for OOADP Lab Test
 `You will be asked to execute and draw class diagram of any 1 question. A time limit of 1:30 hour will be given for it. And you need to keep your skype call videos on.`
 
+Please point out if any information is improper. 
+
 
