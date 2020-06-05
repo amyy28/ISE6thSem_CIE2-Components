@@ -1,6 +1,6 @@
 ## Contains information and data regarding the CIE - 2 assessments
 
-Link to curriculam - https://msrit-bucket.s3-us-west-2.amazonaws.com/Departments/ISE/Syllabus/UG_5-6_Sem-2019-20.pdf
+Link to curriculum - https://msrit-bucket.s3-us-west-2.amazonaws.com/Departments/ISE/Syllabus/UG_5-6_Sem-2019-20.pdf
 
 ### Note that, except the CIE dates, all the other components dates are ISE 6C specific 
 
