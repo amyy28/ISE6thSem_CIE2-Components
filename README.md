@@ -7,7 +7,7 @@
 | Date   |      Subject      |  Portions |
 |----------|:-------------:|------:|
 | 8th June |  System Software | From program blocks to remaining second unit, 3rd unit full. |
-| 9th June |    OOADP   | - |
+| 9th June |    OOADP   | <b>Unit 2 to unit 4(2 topics)</b> ( adapter pattern to commanality and variability analysis) |
 | 10th June | Java & J2EE | - |
 | 11th June | Machine Learning | <b>Unit 3 -</b> Logistic Regression & LDA, <b>Unit 4 -</b> Expectation-Maximisation & Dimensionality reduction - PCA, <b>Unit 5 -</b> Vector Quantisation,SOM & Hierarchical Clustering - AGNES, DIANA |
 
