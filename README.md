@@ -1,8 +1,8 @@
-# Contains information and data regarding the CIE - 2 assessments
+## Contains information and data regarding the CIE - 2 assessments
 
 ## Note that, except the CIE dates, all the other components are ISE 6C specific 
 
-### CIE - 2 Schedule
+### Schedule CIE - 2 
 
 | Date   |      Subject      |  Portions |
 |----------|:-------------:|------:|
