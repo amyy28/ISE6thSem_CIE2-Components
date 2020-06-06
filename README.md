@@ -35,6 +35,10 @@ From PART A, you can execute any one exercise...record the execution in system.
 Note : make sure your presence is there in video. And submit in google class room. Submit before 15th June.
 While screen sharing, it shows a small window, where your picture will come. You try recording using Zoom, Skype or any video recording platform.`
 
+#### Google Classroom Codes
+- System Software - 2g2iew7
+- OOADP - 2t7kotw
+
 Please point out if any information is improper. 
 
 
