@@ -12,6 +12,7 @@ Link to curriculum - https://msrit-bucket.s3-us-west-2.amazonaws.com/Departments
 | 9th June |    OOADP   | <b>Unit 2 to Unit 4 (2 topics)</b> ( adapter pattern to commanality and variability analysis) |
 | 10th June | Java & J2EE | Units 3,4 & 5(till Inet address) |
 | 11th June | Machine Learning | <b>Unit 3 -</b> Logistic Regression & LDA, <b>Unit 4 -</b> Expectation-Maximisation & Dimensionality reduction - PCA, <b>Unit 5 -</b> Vector Quantisation,SOM & Hierarchical Clustering - AGNES, DIANA |
+| 11th June |  Computer Graphics | Unit 4 complete(Solid modelling & colour), Unit 5. Rendering & visible surface elimination.. |
 
 
 ### ISE 6C specific deadlines and assessments
