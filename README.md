@@ -31,10 +31,9 @@ Link to curriculum - https://msrit-bucket.s3-us-west-2.amazonaws.com/Departments
 `You will be asked to execute and draw class diagram of any 1 question. A time limit of 1:30 hour will be given for it. And you need to keep your skype call videos on.`
 
 #### Additional directives for SS Lab Test
-`Do the following and submit.
-From PART A, you can execute any one exercise...record the execution in system. 
-Note : make sure your presence is there in video. And submit in google class room. Submit before 15th June.
-While screen sharing, it shows a small window, where your picture will come. You try recording using Zoom, Skype or any video recording platform.`
+`Screenrecord video along with your webcam on. 
+Record first 10 lines of code, last 10 lines of code and execution of the code.
+Choose any one question from part A.`
 
 #### Google Classroom Codes
 - System Software - 2g2iew7
