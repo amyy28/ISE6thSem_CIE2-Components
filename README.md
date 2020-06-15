@@ -24,7 +24,7 @@ Link to curriculum - https://msrit-bucket.s3-us-west-2.amazonaws.com/Departments
 | 10th June |  Deadline for Java Lab Record Submission | - |
 | 12th June |  OOADP Lab Test | First 5 programs from Part B |
 | 14th June, 12 noon |    Deadline for SS lab record submission   | Part A Programs |
-| 15th June | 10 marks MCQ test SS | 5th Unit(lex and Yacc) |
+| 16th June | 10 marks MCQ test SS | 5th Unit(lex and Yacc) |
 | 15th June | SS Lab test for 20 marks (Deadline) | First 5 programs from Part A |
 
 #### Guidelines for OOADP Lab Test
